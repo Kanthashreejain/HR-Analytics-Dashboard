@@ -4,6 +4,13 @@ The goal of this project is to showcase how HR data can be transformed into mean
 
 ## Dataset used
    <a href="https://github.com/Kanthashreejain/HR-Analytics-Dashboard/blob/main/HRDataset_v14.xlsx"> Dataset </a>
+   
+## Dashboard Interaction 
+   <a href="https://github.com/Kanthashreejain/HR-Analytics-Dashboard/blob/main/HR.pbit"> View Dashboard </a>
+   
+## Dashboard Snapshot
+<img width="1371" height="770" alt="Snapshot" src="https://github.com/user-attachments/assets/77042b89-6823-4328-8da2-3c431f763132" />
+
 
 
 ## Key Features
